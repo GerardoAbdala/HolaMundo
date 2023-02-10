@@ -1,0 +1,8 @@
+public class holamundo{
+    public static void main(String[] args){
+        System.out.println("Hola mundo!");
+    }
+}
+
+git config --global user.name "Gerardo Abdala"
+git config --global user.email "gerardo.abdala@uabc.edu.mx"
